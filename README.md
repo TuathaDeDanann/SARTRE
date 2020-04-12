@@ -10,6 +10,7 @@
 # 2. Browser based plug-in interface
 # 3. The ability to initiative a blockchain tied to a transaction based on set guidelines
 #     - Over $2000 amount
+#     - For transactions over $10000 a form 8300 is required - https://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCEN8300.pdf
 #     - Flagged by a member of staff 
 #     - Transactions on an account meet a designated value across a brief time period indicating obfuscation of intent
 # FINCEN guidelines on filing SAR- https://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENSAR.pdf - Up to date to Feb 2020
@@ -21,5 +22,7 @@
 #
 # FUTURE CONSIDERATIONS
 # Designation of Exempted Persons - DOEP - https://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENDOEP.pdf
+# BSA Batch e-filing testing - https://bsaefiling.fincen.treas.gov/docs/TestingProcedures.pdf
+# May need to incorporate the NAICS - https://bsaefiling.fincen.treas.gov/docs/NAICS.pdf
 # 
 
