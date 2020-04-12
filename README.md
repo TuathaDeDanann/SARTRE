@@ -4,11 +4,22 @@
 #
 # 5 steps
 # 
-# 1. API login tied to users active directory credentials - e.g. tying it to a google identity in chrome. 
+# 1. API login tied to users active directory credentials - e.g. tying it to a google identity in chrome
+#     - SU should be able to assign rights and privileges to general users (should be already aligned within internal processes)
+# 
 # 2. Browser based plug-in interface
 # 3. The ability to initiative a blockchain tied to a transaction based on set guidelines
-#     - Over x amount
+#     - Over $2000 amount
 #     - Flagged by a member of staff 
 #     - Transactions on an account meet a designated value across a brief time period indicating obfuscation of intent
+# FINCEN guidelines on filing SAR- https://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENSAR.pdf - Up to date to Feb 2020
+#                             CTR- https://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENCTR.pdf - Up to date to April 2020
+#                             
 # 4. The ability record all activity in the form of a transaction on-chain following the trigger
-# 5. The ability to present these transactions in the form of a document/pdf demonstrating the chain-of-evidence. 
+# 5. The ability to present these transactions in the form of a document/pdf demonstrating the chain-of-evidence.
+#     - should be compliant with the requirements for BSA filing. https://bsaefiling.fincen.treas.gov/Why_use_BSA_004.html
+#
+# FUTURE CONSIDERATIONS
+# Designation of Exempted Persons - DOEP - https://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENDOEP.pdf
+# 
+
