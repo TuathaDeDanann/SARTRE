@@ -1,5 +1,7 @@
 # SARTRE.md
 # 
+# Suspicious Activity Reporting Tool for Recording Evidence (SARTRE).
+#
 # 5 steps
 # 
 # 1. API login tied to users active directory credentials - e.g. tying it to a google identity in chrome. 
