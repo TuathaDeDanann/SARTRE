@@ -2,8 +2,10 @@
 # 
 # Suspicious Activity Reporting Tool for Recording Evidence (SARTRE).
 #
-# 5 steps
-# 
+# Aim: Software solution for financial services, regulators and law enforcement to improve AML & CFT processes and enforcement.
+# Challenge: Efficient SAR evidence collection and packaging in a standardized format that can contribute to risk reduction. 
+# Point of Failure: Manual processes that are not shared across the industry. Inability to reliably prove data provenance without audit.
+#
 # 1. API login tied to users active directory credentials - e.g. tying it to a google identity in chrome
 #     - SU should be able to assign rights and privileges to general users (should be already aligned within internal processes)
 # 
@@ -19,6 +21,9 @@
 # 4. The ability record all activity in the form of a transaction on-chain following the trigger
 # 5. The ability to present these transactions in the form of a document/pdf demonstrating the chain-of-evidence.
 #     - should be compliant with the requirements for BSA filing. https://bsaefiling.fincen.treas.gov/Why_use_BSA_004.html
+#
+# KEY METRICS 
+# Efficiency, compliance, and auditability
 #
 # FUTURE CONSIDERATIONS
 # Designation of Exempted Persons - DOEP - https://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENDOEP.pdf
