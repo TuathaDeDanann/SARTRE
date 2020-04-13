@@ -21,7 +21,7 @@ ___
 FINCEN guidelines on filing CTR- https://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENCTR.pdf - Up to date to April 2020
                             
 4. The ability record all activity in the form of a transaction on-chain following the trigger
-    - creating hashes for any documents, emails, notes etc. recorded on the customers file linked to the transaction. 
+    - creating time-stamped hashes for any documents, emails, notes etc. recorded on the customers file linked to the transaction. 
     
 5. The ability to present these transactions in the form of a document/pdf demonstrating the chain-of-evidence.
     - should be compliant with the requirements for BSA filing. https://bsaefiling.fincen.treas.gov/Why_use_BSA_004.html
