@@ -6,7 +6,7 @@ ___
 
 **Challenge:** Efficient SAR evidence collection and packaging in a standardized format that can contribute to risk reduction. 
 
-**Point of Failure:** Manual processes that are not shared across the industry. Inability to reliably prove data provenance without audit.
+**Problem Statement:** Manual processes that are not shared across the industry. Inability to reliably prove data provenance without audit.
 
 1. API login tied to users active directory credentials - e.g. tying it to a google identity in chrome
     - SU should be able to assign rights and privileges to general users (should be already aligned within internal processes)
