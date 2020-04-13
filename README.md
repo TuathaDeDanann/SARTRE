@@ -21,11 +21,13 @@ FINCEN guidelines on filing SAR- https://bsaefiling.fincen.treas.gov/docs/XMLUse
 5. The ability to present these transactions in the form of a document/pdf demonstrating the chain-of-evidence.
     - should be compliant with the requirements for BSA filing. https://bsaefiling.fincen.treas.gov/Why_use_BSA_004.html
 
-#Key Metrics 
+# Key Metrics 
 ___
 Efficiency, compliance, and auditability
 
-#FUTURE CONSIDERATIONS
+# FUTURE CONSIDERATIONS
 [Designation of Exempted Persons - DOEP](https://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENDOEP.pdf)
+
 [BSA Batch e-filing testing](https://bsaefiling.fincen.treas.gov/docs/TestingProcedures.pdf)
+
 [May need to incorporate the NAICS](https://bsaefiling.fincen.treas.gov/docs/NAICS.pdf)
