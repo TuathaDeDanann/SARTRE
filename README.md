@@ -31,6 +31,7 @@ ___
 Efficiency, compliance, and auditability
 
 # FUTURE CONSIDERATIONS
+Aggregation of risk data to flag customers across industry without disclosing liabilities using ML. 
 [Designation of Exempted Persons - DOEP](https://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENDOEP.pdf)
 
 [BSA Batch e-filing testing](https://bsaefiling.fincen.treas.gov/docs/TestingProcedures.pdf)
